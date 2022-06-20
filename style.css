@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+
+#app {
+    text-align: center;
+    margin: 50px auto;
+    padding: 10px 0;
+    background-color: white;
+    width: 300px;
+    height: fit-content;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+#todo-title{
+    background-color: grey;
+}
+
+#todo-output{
+    text-align: left;
+}
